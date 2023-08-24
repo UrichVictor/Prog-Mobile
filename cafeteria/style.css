@@ -1,0 +1,97 @@
+*{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-image: url(fundo.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.café{
+    background-color: rgba(0, 0, 0, 0.486);
+    border: 3px solid #ffffff;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin: 40px;
+    box-shadow: 0 0 40px #ffffff;
+    background-attachment: fixed;
+    text-shadow: 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 30px #000000;
+}
+
+h1{
+    color: white;
+    font-size: 80px;
+    font-family: café;
+    text-align: center;
+    text-shadow: 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 30px #000000;
+}
+
+@font-face {
+    font-family: café;
+    src: url(coffee_terrace/Coffee\ Terrace.ttf);
+}
+
+.conter{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.cardapio{
+    background-color: rgba(0, 0, 0, 0.486);
+    border: 3px solid #ffffff;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin: 40px;
+    background-attachment: fixed;
+    width: 25%;
+}
+
+.cafézinho{
+    background-color: rgba(0, 0, 0, 0.486);
+    border: 3px solid #ffffff;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin: 40px;
+    background-attachment: fixed;
+    width: 25%;
+}
+
+.torta{
+    background-color: rgba(0, 0, 0, 0.486);
+    border: 3px solid #ffffff;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin: 40px;
+    background-attachment: fixed;
+    width: 25%;
+}
+
+.bolos{
+    background-color: rgba(0, 0, 0, 0.486);
+    border: 3px solid #ffffff;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin: 40px;
+    background-attachment: fixed;
+    width: 25%;
+}
+
+.salgados{
+    background-color: rgba(0, 0, 0, 0.486);
+    border: 3px solid #ffffff;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin: 40px;
+    background-attachment: fixed;
+    width: 25%;
+}
