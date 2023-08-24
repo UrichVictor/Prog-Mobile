@@ -1,0 +1,27 @@
+*{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-image: url(minecraft-wallpaper.png);
+    background-size: 100%;
+    background-attachment: fixed;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    border: 3px solid blueviolet;
+    margin: 300px;
+    box-shadow: 0 0 40px blueviolet;
+}
+
+button{
+    color: black;
+    background-color: white;
+    font-size: 20px;
+}
+form,label{
+    display: block;
+    padding: 5px;
+
+}

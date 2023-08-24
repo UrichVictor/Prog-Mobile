@@ -1,0 +1,33 @@
+*{
+    scroll-behavior: smooth;
+}
+
+form{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input{
+    background-color: rgba(0, 0, 0, 0.473);
+    color: #ffffff;
+    font-size: 20px;
+    border: #ffffff;
+}
+
+body{
+    background-color: #9400d3;
+    padding: 280px;
+    background-image: url(night.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.sla{
+    background-color: #9400d365;
+    border: 3px solid #a200e7;
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+    margin: 40px;
+    box-shadow: 0 0 40px #9400d3;
+}

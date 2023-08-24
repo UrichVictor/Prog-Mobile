@@ -1,0 +1,13 @@
+*{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+    background-size: 100%;
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}

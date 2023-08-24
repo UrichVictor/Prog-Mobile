@@ -1,0 +1,46 @@
+*{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: blueviolet;
+    background-size: 100%;
+    background-attachment: fixed;
+    font-size: 30px;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input{
+    font-size: 30px;
+    background-color: white;
+    color: black;
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 200px;
+    background-color: #6b00cf;
+    background-attachment: fixed;
+}
+
+.formulario{
+    border: 3px solid #a84aff;
+    text-align: left;
+    color: black;
+    font-size: 30px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0 0 40px (155, 49, 255);
+    background-attachment: fixed;
+}
+
+button{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    font-size: 30px;
+}

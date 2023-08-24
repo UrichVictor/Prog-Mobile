@@ -1,0 +1,19 @@
+*{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: rgb(153, 0, 255);
+    background-size: 100%;
+    background-attachment: fixed;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+input{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+}

@@ -1,0 +1,12 @@
+*{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: blueviolet;
+    background-size: 100%;
+    background-attachment: fixed;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
